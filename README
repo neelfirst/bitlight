@@ -1,0 +1,10 @@
+h1. bitlight
+
+bitlight is an ultra-portable digital tealight.
+- battery life: 90 / 180 min
+- color: warm white / RGB
+- connectivity: none / esp8266
+
+- usb-c rechargeable
+- serviceable battery
+- one pot control
