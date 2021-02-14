@@ -1,0 +1,3 @@
+[submodule "LiPo_Charger_Plus"]
+	path = LiPo_Charger_Plus
+	url = https://github.com/sparkfun/LiPo_Charger_Plus
